@@ -24,6 +24,9 @@ Programming Languages: Python
 Libraries: Hugging Face Transformers, scikit-learn, pandas, NumPy
 Models: DeBERTa, MiniLM
 
+# Requirements
+To run this project efficiently, it is recommended to use a GPU or TPU for training the models, especially for larger datasets or deeper models like mDeBERTa and MiniLM.
+
 # 📊 Results
 Model: mDeBERTa
 Metric	  Score
